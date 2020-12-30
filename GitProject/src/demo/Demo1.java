@@ -12,5 +12,7 @@ public class Demo1 {
 		System.out.println("Edited by SME");
 		System.out.println("Edited by SME after fork");
 		System.out.println("Another Edit by SME after fork");
+		System.out.println("Edited by Contractor.");
+		System.out.println("Third Edit by Contractor");
 	}
 }
