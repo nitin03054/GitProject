@@ -14,5 +14,8 @@ public class Demo1 {
 		System.out.println("Another Edit by SME after fork");
 		System.out.println("Edited by Contractor.");
 		System.out.println("Third Edit by Contractor");
+		System.out.println("Third Edit by Contractor.");
+		System.out.println("Changing for the merge.");
+		System.out.println("Missed one change for the merge.");
 	}
 }
